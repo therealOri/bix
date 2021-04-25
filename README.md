@@ -23,11 +23,11 @@ All you really have to do is set up the timing for when you want messages to be 
 
 You will also NEED to have the chat box of wherever you are using this clicked on for text to be typed there. Otherwise it will just type your stuff in the cmd/terminal window.
 
+CTRL + C will stop it from running.
 
 
 
 
-
-
+# 
 **DISCLAIMER**
 I am not responsible for your misuse or malicious use of my code. I am also not liable for punishment or damages if anything happens.
