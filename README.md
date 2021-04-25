@@ -1,5 +1,5 @@
 # bix
-A very simple and real disboard auto bumber without using discords api. Which means you can't get banned for abusing their api as it's not a selfbot.
+A very simple, safe, and real disboard auto bumber without using discords api. Which means you can't get banned for abusing their api as it's not a selfbot.
 
 
 
