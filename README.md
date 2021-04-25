@@ -30,4 +30,4 @@ You will also NEED to have the chat box of wherever you are using this clicked o
 
 
 **DISCLAIMER**
-I am not responsible for your misuse or malicious use of my code. I am also not liable for punishment if anything happens.
+I am not responsible for your misuse or malicious use of my code. I am also not liable for punishment or damages if anything happens.
