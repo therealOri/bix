@@ -5,13 +5,14 @@ import time
 from pynput.keyboard import Key, Controller
 
 keyboard = Controller()
-time.sleep(5)
+text = input('What text would you like to be used?: ')
+time.sleep(5) #This is how long it waits before starting/running the code below.
 
 while True:
     
-    keyboard.type('!d bump')
+    keyboard.type(text)
     keyboard.press(Key.enter)
     time.sleep(0.5)
     keyboard.release(Key.enter)
     print('Server Has been bumped!')
-    time.sleep(7260)
+    time.sleep(7260) #7260 is 2hrs and 1 min in seconds. It's set up like this because disboard sometimes throws a fit if you are exacty on time.
