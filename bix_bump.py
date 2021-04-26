@@ -15,4 +15,4 @@ while True:
     time.sleep(0.5)
     keyboard.release(Key.enter)
     print('Server Has been bumped!')
-    time.sleep(7260) #7260 is 2hrs and 1 min in seconds. It's set up like this because disboard sometimes throws a fit if you are exacty on time.
+    time.sleep(7260) #7260 is 2hrs and 1 min in seconds. It's set up like this because disboard sometimes throws a fit if you are exactly on time.
