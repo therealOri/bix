@@ -5,7 +5,7 @@ import time
 from pynput.keyboard import Key, Controller
 
 keyboard = Controller()
-text = input('What text would you like to be used?: ')
+text = input('Text?: ')
 time.sleep(5) #This is how long it waits before starting/running the code below.
 
 while True:
