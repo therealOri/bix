@@ -12,7 +12,7 @@ If you get a module not found error type `pip3 install -r requirements.txt` to i
 The only other thing you need is python3 itself. (Pip is already included on instalation on windows.)
 You can find, download, and install python3 from [here](https://www.python.org/downloads/)
 
-If you are on windows use this: [download](https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe)
+If you are on windows use this: [download](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)
 
 
 
