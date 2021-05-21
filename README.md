@@ -18,7 +18,7 @@ If you are on windows use this: [download](https://www.python.org/ftp/python/3.9
 
 
 # Usage
-You can manually set whatever you want to be sent to the channel after running the file, it's very easy to use.
+You can manually set whatever text you want to be sent to the channel after running the file, it's very easy to use.
 All you really have to do is set up the timing for when you want messages to be sent and how long to wait. Everything is in seconds so keep that in mind when messing with the time.
 
 You will also NEED to have the chat box of wherever you are using this clicked on for text to be typed there. Otherwise it will just type your stuff in the cmd/terminal window.
